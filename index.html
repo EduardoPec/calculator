@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <main>
+        <div id="container">
+            <input type="text" class="calculator-screen" value="">
+
+            <div id="calculator-keys">
+                <button type="button" class="operator" onclick="insertToDisplay('+')">+</button>
+                <button type="button" class="equal" onclick="result('=')">=</button>
+                <button type="button" class="clean" onclick="clean('AC')">AC</button>
+                <button type="button" class="backspace" onclick="back('⌫')">⌫</button>
+                <button type="button" class="operator" onclick="insertToDisplay('-')">-</button>
+
+                <button type="button" class="number" onclick="insertToDisplay('7')">7</button>
+                <button type="button" class="number" onclick="insertToDisplay('8')">8</button>
+                <button type="button" class="number" onclick="insertToDisplay('9')">9</button>
+                <button type="button" class="operator" onclick="insertToDisplay('*')">x</button>
+
+                <button type="button" class="number" onclick="insertToDisplay('4')">4</button>
+                <button type="button" class="number" onclick="insertToDisplay('5')">5</button>
+                <button type="button" class="number" onclick="insertToDisplay('6')">6</button>
+                <button type="button" class="operator" onclick="insertToDisplay('/')">÷</button>
+
+                <button type="button" class="number" onclick="insertToDisplay('1')">1</button>
+                <button type="button" class="number" onclick="insertToDisplay('2')">2</button>
+                <button type="button" class="number" onclick="insertToDisplay('3')">3</button>
+                <button type="button" class="operator" onclick="insertToDisplay('%')">%</button>
+                <button type="button" class="decimal" onclick="insertToDisplay('.')">,</button>
+                <button type="button" class="number" onclick="insertToDisplay('0')">0</button>
+            </div>
+        </div> 
+        
+    </main>
+
+    <script src="main.js"></script>
+</body>
+</html>
