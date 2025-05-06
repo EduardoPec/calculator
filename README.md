@@ -19,7 +19,7 @@ Uma calculadora moderna e responsiva construída com HTML, CSS e JavaScript puro
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-## 📸 Screenshots
+## 📸 Screenshot
 
  ![Desktop](ftCalculator.png) 
 
