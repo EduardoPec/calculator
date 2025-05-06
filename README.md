@@ -23,7 +23,7 @@ Uma calculadora moderna e responsiva construída com HTML, CSS e JavaScript puro
 
 | Desktop | Mobile |
 |---------|--------|
-| ![Desktop](ftCalculator.png) | ![Mobile](https://via.placeholder.com/200x400/003cffa8/ffffff?text=Mobile) |
+| ![Desktop](ftCalculator.png) | ![Mobile](ftMobileCalculator.png) |
 
 ## 🛠️ Como Executar
 
