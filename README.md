@@ -21,9 +21,7 @@ Uma calculadora moderna e responsiva construída com HTML, CSS e JavaScript puro
 
 ## 📸 Screenshots
 
-| Desktop | Mobile |
-|---------|--------|
-| ![Desktop](ftCalculator.png) | ![Mobile](ftMobileCalculator.png) |
+ ![Desktop](ftCalculator.png) 
 
 ## 🛠️ Como Executar
 
